@@ -12,6 +12,6 @@ I'm Connor. I like to make computers do stuff.
 [my awesome game portfolio!!!11](https://connoryo.github.io/)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats-connoryos-projects.vercel.app//api?show_icons=true&username=connoryo&theme=radical&hide_border=true" alt="Github stats" height="150" style="margin-right: 10px;">
-  <img src="https://github-readme-stats-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=radical&hide_border=true" alt="Most used languages" height="150">
+  <img src="https://github-readme-stats-connoryos-projects.vercel.app//api?show_icons=true&username=connoryo&theme=blue_navy&hide_border=true" alt="Github stats" height="150" style="margin-right: 10px;">
+  <img src="https://github-readme-stats-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=blue_navy&hide_border=true" alt="Most used languages" height="150">
 </div>
