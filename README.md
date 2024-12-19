@@ -15,5 +15,5 @@ I'm Connor. I like to make computers do stuff.
     </a>
 </div>
 
-![Github stats](https://github-readme-stats-6dhob9bg4-connoryos-projects.vercel.app/api?show_icons=true&username=connoryo&theme=radical)
-![Most used languages](https://github-readme-stats-6dhob9bg4-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=radical)
+![Github stats](https://github-readme-stats-connoryos-projects.vercel.app//api?show_icons=true&username=connoryo&theme=radical)
+![Most used languages](https://github-readme-stats-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=radical)
