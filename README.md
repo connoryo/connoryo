@@ -9,11 +9,9 @@ I'm Connor. I like to make computers do stuff.
 ![vscode](https://api.statusbadges.me/badge/vscode/211947199192367114)
 [![spotify](https://api.statusbadges.me/badge/spotify/211947199192367114)](https://api.statusbadges.me/openspotify/211947199192367114)
 
-<div align="center">
-    <a href="https://connoryo.github.io/">
-        <p style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">my awesome game portfolio!!!11</p>
-    </a>
-</div>
+<a href="https://connoryo.github.io/">
+    <p style="font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">my awesome game portfolio!!!11</p>
+</a>
 
-![Github stats](https://github-readme-stats-connoryos-projects.vercel.app//api?show_icons=true&username=connoryo&theme=radical)
-![Most used languages](https://github-readme-stats-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=radical)
+<img src="https://github-readme-stats-connoryos-projects.vercel.app//api?show_icons=true&username=connoryo&theme=radical" alt="Github stats" style="height: 150px;">
+<img src="https://github-readme-stats-connoryos-projects.vercel.app/api/top-langs/?username=connoryo&hide_progress=true&theme=radical" alt="Most used languages" style="height: 150px;">
